@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "name": "Leon Qu",
+    "label": "Graduate from UH Manoa in Computer Science B.S. and Chinese B.A",
+    "picture": "https://qu-leon.github.io/template/images/13568891_1436803106345159_2863295452894449589_o (3).jpg",
+    "email": "qu.leonjr@gmail.com",
+    "phone": "808-840-7795",
+    "website": "https://qu-leon.github.io",
+    "summary": "Recent graduate of B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. My interests include technology, learning languages, and UX design.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96818",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,41 +17,34 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "qu-leon",
         "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "leon-qu",
+        "url": "www.linkedin.com/in/leon-qu-788afe"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "network": "facebook",
+        "username": "leon qu",
+        "url": "https://www.facebook.com/leon.qu.7"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "UI/UX Design",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Data Analytics",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Software Engineering",
       "keywords": [
       ]
     }
@@ -66,7 +59,7 @@
         "Java",
         "Javascript",
         "Assembly",
-        "Common Lisp"
+        "HTML/CSS"
       ]
     },
     {
@@ -84,10 +77,10 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science, Chinese",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2014-08-14",
+      "endDate": "2019-12-19",
       "gpa": "",
       "courses": [
       ]
