@@ -58,7 +58,8 @@
         "D3.js", 
         "jQuery"
       ]
-  },
+    }
+  ],
   "skills": [
     {
       "name": "Languages and Frameworks",
