@@ -108,53 +108,55 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Leadwest Education",
+      "position": "Education Consultant",
+      "website": "http://www.leadwestedu.com/",
+      "startDate": "2019-08-14",
+      "endDate": "2019-12-13",
+      "summary": "Worked as an education consultant in China as part of Chinese Flagship",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Strategized with student clients on college planning and guided them through the application process",
+        "Produced new educational videos increasing company social media following",
+        "Wrote company website page using HTML/CSS/Javascript",
+        "Translated documents to be sent to U.S. universities"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "UH Research",
+      "position": "Project Research Assistant",
+      "website": "https://www.rcuh.com/",
+      "startDate": "2018-11-04",
+      "endDate": "2019-01-10",
+      "summary": "Worked on research of California Coastlines project lead by Dr. John Lynham",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Analyzed coastlines utilizing Google Earth and California Coastlines database finding trends in coastline recession",
+        "Approximated recorded points and reported back trends weekly"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Sheila Donnelly & Associates",
+      "position": "Data Management and Marketing Intern",
+      "website": "https://www.sheiladonnelly.com/",
+      "startDate": "2017-02-03",
+      "endDate": "2016-06-17",
+      "summary": "Internship working on managing multiple company databases using database software",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Minimized duplicates and missing information in company contact database",
+        "Introduced new client press releases through company social media channels",
+        "Implemented a more efficient process of inputting contacts into database"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "AFCEA Hawaii",
+      "website": "https://www.afcea-hawaii.org/",
+      "position": "member",
+      "startDate": "2018-02-15",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "TechNet Asia Pacific volunteer",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Maintain conference operations such as booth set up and attendee sign in"
       ]
     },
     {
@@ -165,25 +167,56 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Member, ACM Manoa, 2015-2018",
+        "Volunteer member, YMCA Atherton, UH Manao, 2016-2018",
+        "Member, HOSA, UH Manoa, 2014-2018
+        "Webmaster/IT Officer, HOSA, UH Manoa, 2016-2017"
       ]
     }
   ],
   "awards": [
     {
+      "title": "Benjamin A. Gilman International Scholarship & Critical Language Scholarship",
+      "date": "2019",
+      "awarder": "U.S. Department of State, Bureau of Educational and Cultural Affairs",
+      "summary": "Highly competitive international scholarship awarded to students preparing to study abroad."
+    },
+    {
+      "title": "Flagship Hackathon 2nd place",
+      "date": "2018",
+      "awarder": "UH Manoa Language Flagship Technology Innovation Center",
+      "summary": "Project prototype to make a language acquisition app. See projects for details."
+    },
+    {
+      "title": "Freeman-Asia Scholarship",
+      "date": "2018",
+      "awarder": "Institute of International Education",
+      "summary": "Very competitive national scholarship awarded to students studying abroad."
+    },
+    {
+       "title": "Green Ideas Best Team Award & Green Ideas Innovator Award",
+       "date": "2018",
+       "awarder": "UH Manoa Language Flagship Technology Innovation Center",
+       "summary": "Collaboration project launched from a Chinese class project. See projects for details."
+    },
+    {
+      "title": "Huayu Ministry of Education Scholarship",
+      "date": "2017",
+      "awarder": "Taiwan Ministry of Education",
+      "summary": "Scholarship awarded by the Taiwan Ministry of Education to promote foreign students to study Mandarin in Taiwan."
+    },
+    {
+      "title": "ABC Stores Jumpstart Scholarship",
+      "date": "2014-2019",
+      "awarder": "Kosasa Family Foundation",
+      "summary": "Scholarship awarded through Hawaii Community Foundation and partnership with Kosasa Family Foundation."
+    },
+    {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2014-2019",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
