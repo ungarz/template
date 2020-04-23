@@ -2,11 +2,11 @@
   "basics": {
     "name": "Leon Qu",
     "label": "Graduate from UH Manoa in Computer Science B.S. and Chinese B.A",
-    "picture": "https://qu-leon.github.io/template/images/13568891_1436803106345159_2863295452894449589_o (3).jpg",
+    "picture": "https://qu-leon.github.io/template/images/leon_head.jpg",
     "email": "qu.leonjr@gmail.com",
     "phone": "808-840-7795",
     "website": "https://qu-leon.github.io",
-    "summary": "Recent graduate of B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. My interests include technology, learning languages, and UX design.",
+    "summary": "Recent graduate of B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. My interests include UX design, data analytics and software engineering.",
     "location": {
       "address": "",
       "postalCode": "96818",
@@ -46,8 +46,18 @@
     {
       "name": "Software Engineering",
       "keywords": [
+        "Agile",
+        "Scrum"
       ]
     }
+    {
+      "name": "Website design",
+      "keywords": [
+        "React", 
+        "Node.js", 
+        "D3.js", 
+        "jQuery"
+      ]
   ],
   "skills": [
     {
@@ -59,7 +69,10 @@
         "Java",
         "Javascript",
         "Assembly",
-        "HTML/CSS"
+        "HTML/CSS",
+        "Python",
+        "SQL/NoSQL",
+        "Prolog"
       ]
     },
     {
@@ -67,21 +80,29 @@
       "level": "",
       "keywords": [
         "Windows",
-        "Ubuntu",
+        "Linux/Ubuntu",
         "Git/GitHub",
-        "g++"
+        "gcc"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science, Chinese",
-      "studyType": "B.S.",
+      "area": "B.S., Computer Science, B.A. Chinese",
+      "studyType": "",
       "startDate": "2014-08-14",
       "endDate": "2019-12-19",
-      "gpa": "",
+      "gpa": "3.43",
       "courses": [
+        "ICS 141/241: Discrete math",
+        "ICS 311: Algorithms",
+        "ICS 314/414: Software Engineering",
+        "ICS 464: Human Computer Interaction",
+        "ICS 332: Operating Systems",
+        "ICS 361: AI Programming",
+        "ICS 484: Data Visualization",
+        "CHN 496: Overseas Capstone in China"
       ]
     }
   ],
