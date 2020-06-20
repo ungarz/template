@@ -11,21 +11,12 @@ labels:
   - Bootstrap
   - Express.js
   - GitHub
-summary: A secure account database with password hashing that my team developed in ICS 491.
+summary: A complete redesign of UH Manoa's campus center website that my team developed in ICS 465.
 ---
 
-Secure Account is a web application phonebook that I helped create as a team project in ICS 491, Summer 2016. The project helped me learn 
-how to implement a database with login functions that hash passwords to prevent hackers from easily accessing private information. 
-I also learned how to perform static and dynamic analysis, including fuzz testing to check for vulnerabilities in our code and application.
+CC Revamp is a website redesign of the current [UHM campus center website](https://www.hawaii.edu/campuscenter/) that I helped create as a team project in ICS 465, Spring 2018. We orginally had the idea to completely redesign the website because the offical university website has become outdated and does scale well to modern devices. By utilizing some modern web frameworks, we could help to modernize the website and make it a website that is easy to navigate for all.
 
-Secure Account is implemented using [Twitter Bootstrap](https://getbootstrap.com/) for front-end user login interface and [MongoDB]
-(http://mongodb.com) for the phonebook database. We wanted a secure login that would not be broken into through brute force, so we 
-implemented some javascript functions to check for account information. Password protection was implemented through a hashing + salting 
-algorithm [CSPRNG](https://www.php.net/manual/en/function.openssl-random-pseudo-bytes.php) in PHP.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB]
-(http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, 
-and Javascript for both client and server-side programming. I also had exposure to password and database security through the discussed 
-hashing and salthing methods.
+CC Revamp is implemented using [Twitter Bootstrap](https://getbootstrap.com/) for front-end interface and [Express.js]
+(https://expressjs.com/) for the server-side backend. Since the campus center website acts as a main hub that connects to many other webpages, we implemented an effective search bar using [Tipue Search](https://tipue.com/search/). Along with these technologies, we also utilized [Handlebars](https://handlebarsjs.com/) to simplify our codebase when it came to redirecting to other webpages.
  
-Source: <a href="https://github.com/qu-leon/ics491"><i class="large github icon"></i>secureAccount/secure</a>
+Source: <a href="https://github.com/qu-leon/ccrevamp"><i class="large github icon"></i>ccRevamp/ccrevamp</a>
