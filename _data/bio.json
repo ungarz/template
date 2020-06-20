@@ -6,7 +6,7 @@
     "email": "qu.leonjr@gmail.com",
     "phone": "808-840-7795",
     "website": "https://qu-leon.github.io",
-    "summary": "Recent graduate of B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. My interests include web design, data analytics, software engineering, and HCI.",
+    "summary": "Recent graduate of B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. My interests include website design, data analytics, and software engineering. In my free time, I enjoy traveling, learning new languages and going to the gym.",
     "location": {
       "address": "",
       "postalCode": "96818",
@@ -38,23 +38,21 @@
       "keywords": [
         "React", 
         "Node.js", 
-        "D3.js", 
+        "Express.js", 
+        "Bootstrap",
         "jQuery"
-      ]
-    },
-    {
-      "name": "UI/UX Design",
-      "keywords": [
       ]
     },
     {
       "name": "Data Analytics",
       "keywords": [
+        "SQL/NoSQL"
       ]
     },
     {
       "name": "Software Engineering",
       "keywords": [
+        "Agile Development",
       ]
     }
   ],
