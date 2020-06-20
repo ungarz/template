@@ -33,6 +33,15 @@
     ]
   },
   "interests": [
+     {
+      "name": "Website design",
+      "keywords": [
+        "React", 
+        "Node.js", 
+        "D3.js", 
+        "jQuery"
+      ]
+    },
     {
       "name": "UI/UX Design",
       "keywords": [
@@ -46,17 +55,6 @@
     {
       "name": "Software Engineering",
       "keywords": [
-        "Agile",
-        "Scrum"
-      ]
-    },
-    {
-      "name": "Website design",
-      "keywords": [
-        "React", 
-        "Node.js", 
-        "D3.js", 
-        "jQuery"
       ]
     }
   ],
@@ -94,7 +92,7 @@
       "studyType": "",
       "startDate": "2014-08-14",
       "endDate": "2019-12-19",
-      "gpa": "3.43",
+      "gpa": "3.45",
       "courses": [
         "ICS 141/241: Discrete math",
         "ICS 311: Algorithms",
