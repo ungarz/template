@@ -114,10 +114,11 @@
       "endDate": "2019-12-13",
       "summary": "Worked as an education consultant in China as part of Chinese Flagship",
       "highlights": [
-        "Strategized with student clients on college planning and guided them through the application process",
-        "Produced new educational videos increasing company social media following",
+        "Guided student clients on college planning and application process",
+        "Produced new educational videos and articles dramatically increasing company online presence ",
         "Wrote company website page using HTML/CSS/Javascript",
-        "Translated documents to be sent to U.S. universities"
+        "Translated documents to be sent to U.S. universities",
+        "Edited student essays and increased success rate of acceptance into their university choices"
       ]
     },
     {
@@ -129,7 +130,8 @@
       "summary": "Worked on research of California Coastlines project lead by Dr. John Lynham",
       "highlights": [
         "Analyzed coastlines utilizing Google Earth and California Coastlines database finding trends in coastline recession",
-        "Approximated recorded points and reported back trends weekly"
+        "Approximated recorded points and reported back trends weekly",
+        "Collaborated with other assistants remotely to finalize date trends"
       ]
     },
     {
@@ -222,5 +224,5 @@
       "name": "Available upon request",
       "reference": ""
     }
-  ]
+  ],
 }
