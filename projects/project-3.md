@@ -14,6 +14,8 @@ labels:
 summary: A complete redesign of UH Manoa's campus center website that my team developed in ICS 465.
 ---
 
+<img class="ui medium right floated rounded image" src="/images/ccrevampmobile.png">
+
 CC Revamp is a website redesign of the current [UHM campus center website](https://www.hawaii.edu/campuscenter/) that I helped create as a team project in ICS 465, Spring 2018. We orginally had the idea to completely redesign the website because the offical university website has become outdated and does scale well to modern devices. By utilizing some modern web frameworks, we could help to modernize the website and make it a website that is easy to navigate for all.
 
 CC Revamp is implemented using [Twitter Bootstrap](https://getbootstrap.com/) for front-end interface and [Express.js]
