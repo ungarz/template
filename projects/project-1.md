@@ -1,29 +1,27 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
-date: 2015
+image: images/wordworm.png
+title: WordWorm
+permalink: projects/wordworm
+date: 2018
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Web app
+  - Software engineering
+  - Prototyping
+  - Data processing
+summary: My team developed a new web app prototype in the 2018 National Flagship Hackathon hosted by UH.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Flagship Hackathon is an national event in partnership with the National Language Flagship and hosted by the Flagship technology center at UH Manoa where students from all the avalaible Flagship Universities are to selected to come and work together to innovate on technologies that will help students in their studies for learning foreign languages. The app my team developed is called Wordworm which is a web app that will help to solve the issue that many students face when learning a foreign language: a lack of authentic materials especially at the higher levels if students want to focus their language learning on a specific field. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+For this project, I was in charge of the more technical aspects of the prototyping such what technologies we would use to implement our web app. I also worked with one other team member to do a final presentation about our project to the entire National Flagship cohort online.  First, we defined our problems and scope. Through this, our team decided on what features we wanted and I would be in charge of deciding the feasibility of these features. Then, I had to decide on the potential implementation issues that we could run into and then identified the different technologies (frameworks/algorithms) to use such as frontend/backend frameworks and NLP algorithms.
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can learn more at the [UH Flagship Hackathon Website](https://lftic.lll.hawaii.edu/hackathon2018/).
+
 
 
 
